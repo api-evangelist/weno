@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Weno Exchange is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://wenoexchange.com/
+WENO Exchange is an ePrescribing intermediary offering a stand‑alone eRx solution called WENO Online with FREE EPCS. It provides three easy, affordable APIs that enable pharmacies, providers, and health‑tech platforms to integrate ePrescribing, medication management, and electronic prescribing of controlled substances, supporting modern healthcare workflows and compliance requirements.
+
+**Areas:** Company · ePrescribing · Healthcare · API · Pharmacy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://wenoexchange.com/)
+- [Documentation](https://cert.wenoexchange.com/)
+- [Getting started](https://wenoexchange.com/get-started/)
+- [Support](https://support.wenoexchange.com/login_page.php)
+- [Privacy policy](https://wenoexchange.com/privacy-policy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/weno/](https://apis.io/providers/weno/).
